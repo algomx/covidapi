@@ -1,1 +1,1 @@
-Esto va a master o no
+Esto va a master
